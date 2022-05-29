@@ -103,14 +103,6 @@ def page():
         uris= algo.top_mixes(df, user_list)  
         show_tracks(uris)
 
-    
-    
-
-     
-            
-
-
-
 
 def main():
     page()
